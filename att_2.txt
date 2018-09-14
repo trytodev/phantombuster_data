@@ -1,0 +1,1770 @@
+[
+    {
+        "url": "none",
+        "name": "none",
+        "job": "none",
+        "location": "none",
+        "currentJob": "none",
+        "companyUrl": "LinkedIn Company URL"
+    },
+    {
+        "url": "https://www.linkedin.com/in/nickhunn/",
+        "name": "Nick Hunn",
+        "job": "CTO at WiFore",
+        "location": "London, United Kingdom",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/taylorklekamp/",
+        "name": "Taylor Klekamp",
+        "job": "Creative and Analytical Marketer with a Focus on Branding, Content, and Communications",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/jimkatsandres/",
+        "name": "Jim Katsandres",
+        "job": "Executive in the Internet of Things and AI",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/thomasgirardier/",
+        "name": "Thomas Girardier",
+        "job": "CTO & Co-Founder at Tempow - Looking for low-level developers",
+        "location": "Paris Area, France",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/slupik/",
+        "name": "Szymon Slupik",
+        "job": "CTO at Silvair, Chair of the Mesh Working Group at Bluetooth SIG",
+        "location": "Cracow, Lesser Poland District, Poland",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/martin-woolley/",
+        "name": "Martin Woolley",
+        "job": "Developer Relations Manager, EMEA at Bluetooth SIG",
+        "location": "Kingston upon Thames, United Kingdom",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/nish-mith-5401ab112/",
+        "name": "no name found",
+        "job": "Physicist, AST, Optical Physics at NASA Goddard Space Flight Center",
+        "location": "San Francisco Bay Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/huikelly/",
+        "name": "Kelly Hui",
+        "job": "Customer Engagement | Business Development | Technology Adoption",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/holtmann/",
+        "name": "no name found",
+        "job": "Principal Engineer at Intel Corporation",
+        "location": "Braunschweig Area, Germany",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/stephanie-england-e9/",
+        "name": "Stéphanie England",
+        "job": "PDG - ENIN9 Inc. et Inventrice du @E9 Audio | | Remplaçante-Service à la clientèle dans la région de Gatineau chez TD",
+        "location": "Ottawa, Canada Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/kenk1/",
+        "name": "Ken Kolderup",
+        "job": "VP Marketing at Bluetooth SIG",
+        "location": "San Francisco Bay Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/gilsimsic/",
+        "name": "Gil Simsic",
+        "job": "Sr. Field Applications Engineer at Semtech",
+        "location": "Greater Chicago Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/dr-yuan-zhuang/",
+        "name": "Yuan Zhuang",
+        "job": "Senior Director, R&D at Broadcom Limited",
+        "location": "Greater San Diego Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/paul-blackett-45141b2/",
+        "name": "no name found",
+        "job": "NA IoT Regional Manager at UL",
+        "location": "San Francisco Bay Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/mark-powell-49b13b/",
+        "name": "Mark Powell",
+        "job": "Executive Director at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/jiangdiana/",
+        "name": "no name found",
+        "job": "Software Developer II at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/gurunagaraju/",
+        "name": "Guru Nagaraju",
+        "job": "Director, Cloud Engineering at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/harry-ward-b372825/",
+        "name": "no name found",
+        "job": "Regulatory Consultancy & Approvals",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/steveacuna/",
+        "name": "Steve Acuña",
+        "job": "Director, Specifications Program at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/jarekstanley/",
+        "name": "Jarek Stanley",
+        "job": "Senior Program Manager at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/kelliefontes/",
+        "name": "Kellie Fontes",
+        "job": "Technical Business Analyst at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/peter-cook-3801811/",
+        "name": "Peter Cook",
+        "job": "Director, Bluetooth SIG",
+        "location": "Kansas City, Missouri Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/nomitapaul/",
+        "name": "Nomita Paul",
+        "job": "Engineering Manager/Program Manager Worked at Microsoft.",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/denisemmontoya/",
+        "name": "Denise Montoya",
+        "job": "Enable Competitive Business Strategies | Drives Product & Service Consumption",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/lindsay-peattie-151b9b17/",
+        "name": "Lindsay Peattie",
+        "job": "Senior Marketing Manager - Global Brand and Events at Bluetooth SIG",
+        "location": "Kansas City, Missouri Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/kai-ren-24a50533/",
+        "name": "Kai Ren",
+        "job": "Developer Relations Manager, Tech Evangelist at Bluetooth SIG",
+        "location": "Shanghai City, China",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/satomi-michitsuta-6b6b5016/",
+        "name": "Satomi Michitsuta",
+        "job": "Coporate Strategy & Management Group, Digital Marketing Manager at CASIO COMPUTER CO., LTD",
+        "location": "Within 23 wards, Tokyo, Japan",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/jennieyhuang/",
+        "name": "Jennie Huang",
+        "job": "Regional Manager at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/anthonyeward/",
+        "name": "Anthony Ward",
+        "job": "Software Engineer in Test at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/jun-kyu-yi-1a6a3741/",
+        "name": "Jun Kyu Yi",
+        "job": "Software Development Engineer II at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/jordanford/",
+        "name": "Jordan Ford",
+        "job": "Director, Product Management at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/shanewatts529/",
+        "name": "Shane Watts",
+        "job": "Senior Technical Product Manager",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/borislavastefanova/",
+        "name": "BORISLAVA STEFANOVA, CAPM",
+        "job": "Project Manager at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/mindydolan/",
+        "name": "Mindy Dolan",
+        "job": "Engagement Marketing Manager",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/kathleenkomin/",
+        "name": "Kathleen Komin",
+        "job": "Marketing Coordinator at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/lori-lee-792ba378/",
+        "name": "Lori Lee",
+        "job": "Senior Regional Manager at Bluetooth SIG",
+        "location": "Taipei City, Taiwan",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/mark-bissler-067907b9/",
+        "name": "Mark Bissler",
+        "job": "Quality Assurance of Device Interaction at Garmin International",
+        "location": "Kansas City, Missouri Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/youngjikim/",
+        "name": "Youngji Kim",
+        "job": "Challenge-loving, result-driven & detail-focused professional",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/jeremysyme/",
+        "name": "Jeremy Syme",
+        "job": "Senior Technical Program Manager at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/erin-griffin-pmp-47a53891/",
+        "name": "no name found",
+        "job": "Senior Project Manager with experience in technical and non-technical projects",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/svitlana-dyeryabina-68693113/",
+        "name": "Svitlana Dyeryabina",
+        "job": "Technical Program Manager at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/kellyolsson/",
+        "name": "Kelly Olsson",
+        "job": "Senior Manager, Member Development and Relations, EMEA Region at Bluetooth SIG",
+        "location": "Malmo, Sweden",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/jdambra/",
+        "name": "Jonathan D&#39;Ambra",
+        "job": "UX Designer at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/sarahdyrleif/",
+        "name": "Sarah Schmidt",
+        "job": "Graphic Web Designer",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/juliengros/",
+        "name": "Julien Gros",
+        "job": "Software Architect at Dialog Semiconductor",
+        "location": "Tilburg Area, Netherlands",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/lewis-chan-b1a2a32/",
+        "name": "no name found",
+        "job": "Director of Quality and Compliance at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/bogdanalexandru/",
+        "name": "Bogdan Alexandru",
+        "job": "Engineering Consultant at Cloud2GND",
+        "location": "Romania",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/lanceblanchard/",
+        "name": "Lance Blanchard",
+        "job": "UX Designer at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/vincentgao/",
+        "name": "Vincent Gao",
+        "job": "Associate Councilor at Bluetooth Architecture Review Board",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/vkusske/",
+        "name": "Victoria Kusske",
+        "job": "a flower does not think of competing with the flower next to it, it just blooms",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/aminasyan/",
+        "name": "no name found",
+        "job": "Product Manager at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/sethkornfeld/",
+        "name": "Seth Kornfeld",
+        "job": "User Experience at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/seong-ho-kim-0403ba14/",
+        "name": "Seong-Ho Kim",
+        "job": "Technical Software Manager at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/marat-zhaksilikov-a7b61835/",
+        "name": "Marat Zhaksilikov",
+        "job": "Director, Tools Engineering at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/kavithaazhagarsamy/",
+        "name": "Kavitha Azhagarsamy",
+        "job": "Senior Release and Quality Engineer at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/sung-pak-8956958/",
+        "name": "no name found",
+        "job": "Software Development Manager at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/rohinisanthiya-paramasamy-a38a8937/",
+        "name": "no name found",
+        "job": "Software Engineer",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/joshuatcampbell/",
+        "name": "no name found",
+        "job": "Senior Software Developer at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/cjreisinger/",
+        "name": "no name found",
+        "job": "Technical Writer at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/angela-chengyang-yao-9b91a224/",
+        "name": "Angela Chengyang Yao",
+        "job": "Technical Writer Editor at Bluetooth SIG",
+        "location": "Greater Seattle Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/bluetooth-sig/"
+    },
+    {
+        "url": "https://www.linkedin.com/in/modinteractive/",
+        "name": "Michelle ODonnell",
+        "job": "Digital Community Engagement Leader at 3M",
+        "location": "Charlotte, North Carolina Area",
+        "currentJob": "Digital Marketing Manager at 3M Scott Fire & Safety",
+        "companyUrl": "https://www.linkedin.com/company/3m"
+    },
+    {
+        "url": "https://www.linkedin.com/in/kevin-coyle-b76b0b123/",
+        "name": "Kevin Coyle",
+        "job": "Senior Plant Manager at Johnson Controls Inc - Scott Safety",
+        "location": "Charleston, South Carolina Area",
+        "currentJob": "Senior Plant Manager at Scott Safety",
+        "companyUrl": "https://www.linkedin.com/company/3m"
+    },
+    {
+        "url": "https://www.linkedin.com/in/brian-clesham-66574b14/",
+        "name": "Brian Clesham",
+        "job": "Military and Civil Defence Business Development",
+        "location": "Warrington, United Kingdom",
+        "currentJob": "Business Development Manager Military & Civil Defence at 3M Personal Safety Division",
+        "companyUrl": "https://www.linkedin.com/company/3m"
+    },
+    {
+        "url": "https://www.linkedin.com/in/i-been-jammin/",
+        "name": "W. Ben Rhodes, M.A.",
+        "job": "Senior Technical Writer/Information Developer at Scott Safety",
+        "location": "Charlotte, North Carolina Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/3m"
+    },
+    {
+        "url": "https://www.linkedin.com/in/angietrevathan/",
+        "name": "Angie Trevathan",
+        "job": "Media Strategist | Media Buyer | Account Manager | Marketing Analyst |",
+        "location": "Charlotte, North Carolina Area",
+        "currentJob": "Media Strategist at 3M",
+        "companyUrl": "https://www.linkedin.com/company/3m"
+    },
+    {
+        "url": "https://www.linkedin.com/in/carolinesdurham/",
+        "name": "Caroline Roberts",
+        "job": "Working with Sales & Marketing to Drive CRM Strategy for 3M Personal Safety Division",
+        "location": "Charlotte, North Carolina Area",
+        "currentJob": "Global CRM Manager at Scott Safety",
+        "companyUrl": "https://www.linkedin.com/company/3m"
+    },
+    {
+        "url": "https://www.linkedin.com/in/steve-wilson-2909ab90/",
+        "name": "Steve Wilson",
+        "job": "Cable Placing Technician",
+        "location": "Canada",
+        "currentJob": "Safety Supervisor at Scott Safety",
+        "companyUrl": "https://www.linkedin.com/company/3m"
+    },
+    {
+        "url": "https://www.linkedin.com/in/davidmassey2/",
+        "name": "David Massey",
+        "job": "Sr. Director, Talent Acquisition and Workforce Management at 7-Eleven",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/angela-carrales-6485711/",
+        "name": "Angela Carrales",
+        "job": "Senior Director, Marketing 7-Eleven, Inc.",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "Senior Director, Marketing at 7-Eleven, Inc.",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/michellebrigman/",
+        "name": "Michelle Brigman",
+        "job": "Cx Director at 7-Eleven",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/jeffharbach/",
+        "name": "Jeffrey Harbach",
+        "job": "President & CEO at Kauffman Fellows",
+        "location": "Austin, Texas Area",
+        "currentJob": "Owner at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/dawn-gillis/",
+        "name": "Dawn Gillis",
+        "job": "Sr. Director - Acquisition Integration - IT at 7-Eleven Inc.",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "Sr. Director - Acquisition Integration IT at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/vidikha/",
+        "name": "Vishal K.",
+        "job": "Leader for Lean Architecture & Infrastructure in a Digital Enterprise",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "Head of Enterprise Architecture, Infrastructure & Operations, Digital & Enterprise Technology at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/greg-franks-9a929937/",
+        "name": "Greg Franks",
+        "job": "Senior Vice President, U.S. Operations at 7-Eleven",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/jolly-john-731744/",
+        "name": "Jolly John",
+        "job": "Sr. Director of Digital Strategy & Verification at 7-Eleven",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/rebecca-troutman-b12997a/",
+        "name": "Rebecca Troutman",
+        "job": "Director, Delivery & Ecommerce",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "Director, Delivery & eCommerce at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/kelly-hopper-9920b51/",
+        "name": "Kelly Hopper",
+        "job": "Vice President (Accounting, Finance, M&A Integration)",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "Sr Director, Franchising at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/sandra-jackson-3412249a/",
+        "name": "Sandra Jackson",
+        "job": "Business Consultant at 7-Eleven",
+        "location": "Greater Seattle Area",
+        "currentJob": "Field Consultant at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/stephenpkinch/",
+        "name": "Stephen P. Kinch",
+        "job": "INNOVATION LEADER AT THE INTERSECTION OF DIGITAL STRATEGY AND ARCHITECTURE",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "Director, Digital Technology at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/keithrel/",
+        "name": "Keith Rel",
+        "job": "Business Intelligence and Technology Leader",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "Business Intelligence/MSFT Azure Cloud/Application Management/Operations Management at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/fernandocastilla/",
+        "name": "Fernando Castilla",
+        "job": "Managing Director (Director General), 7-Eleven Mexico at 7-Eleven",
+        "location": "Monterrey Area, Mexico",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/amanda-rule-b5659ab7/",
+        "name": "Amanda Rule",
+        "job": "Corporate Communications Specialist at 7-Eleven",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/kathynaumann/",
+        "name": "Kathy Naumann",
+        "job": "Senior IT professional with broad-based experience focused on implementing solutions that drive company objectives.",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "Senior IT Director, Accounting & HR Solutions at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/jeff-suellentrop-6b98676/",
+        "name": "Jeff Suellentrop",
+        "job": "Chief Architect and Business Engagement Leader Stores, Fuels, and Facilities",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "Chief Architect and Business Engagement Leader Stores, Fuels, and Facilities   at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/alibakhtiarimkt/",
+        "name": "Ali Bakhtiari",
+        "job": "Senior Data Scientist at 7-Eleven",
+        "location": "United States",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/brock-rhymer-19893b/",
+        "name": "Brock Rhymer",
+        "job": "Sales Director | Strategic Planning Expert | Innovating product selection and market optimization for growth",
+        "location": "Greater Denver Area",
+        "currentJob": "Operations Manager at Rhymer Retail Inc., 7-Eleven Franchise",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/srikanth-gandra-ab74591/",
+        "name": "Srikanth Gandra",
+        "job": "Director - Digital Technology at 7-Eleven",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/michael-jorgensen-a4417684/",
+        "name": "Michael Jorgensen",
+        "job": "Executive Vice Chairman NCASEF - National Coalition of Associations of 7-Eleven Franchisees",
+        "location": "Tampa/St. Petersburg, Florida Area",
+        "currentJob": "Franchisee at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/elainemtorres/",
+        "name": "Elaine Torres, CUXP",
+        "job": "Sr. UX Designer at 7-Eleven",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "Sr. UX Visual Designer at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/realpaulmccollum/",
+        "name": "Paul McCollum, UXMC",
+        "job": "Enterprise Architect : Innovation and Productivity at 7-Eleven, UXMC",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "Enterprise Architect Innovation and Productivity at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/hani-joakim-97143b2/",
+        "name": "Hani Joakim",
+        "job": "Technology Executive, Enterprise Systems at 7-Eleven",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "Technology Executive. Enterprise systems at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/richard-mills-6613707/",
+        "name": "Richard Mills",
+        "job": "Vice President of Operations at Dickey's Barbecue Restaurants, Inc.",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "Sr. Operations Director at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/laura-conner-04301b11/",
+        "name": "Laura Conner",
+        "job": "Director Corporate Human Resources at 7-Eleven",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/arturo-escaler-1317612b/",
+        "name": "Arturo Escaler",
+        "job": "Senior Business Manager - Fresh Food Innovation - Operations Design - M&A - Store planning and Testing",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "Senior Business Manager - Store Planning and Testing at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/shyamal-pidaparthy-590b001/",
+        "name": "Shyamal Pidaparthy",
+        "job": "Director, Digital Marketing - Paid Channels at 7-Eleven",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/nishanthmandaara/",
+        "name": "Nishanth M.",
+        "job": "Product Management | Digital Payments",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "Digital Products Manager at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/gladman/",
+        "name": "Gladman Dibi, MS",
+        "job": "Deputy CISO at 7-Eleven | Celebrating 21 years in retail",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "Cyber Intelligence Program Manager at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/roger-paz/",
+        "name": "Roger Paz",
+        "job": "I’m a 2018 Level I candidate in the CFA Program",
+        "location": "Miami/Fort Lauderdale Area",
+        "currentJob": "Lead Sales Associate at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/mattlinebarger/",
+        "name": "Matt Linebarger",
+        "job": "Manager, Site Reliability Engineering at at 7-Eleven",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "Manager, Site Reliability Engineering at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/denise-jenkins/",
+        "name": "Denise Jenkins",
+        "job": "Multi-channel Marketer │ Brand Innovator │ Consumer Insights Leader",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "Sr. Director Brand and Customer Strategy at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/rich-hamilton-3682bb1/",
+        "name": "Rich Hamilton",
+        "job": "Senior Manager - Network Infrastructure Services at 7-Eleven",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/morten-vedel-8811316/",
+        "name": "Morten Vedel",
+        "job": "Commercial Director hos 7-Eleven",
+        "location": "Copenhagen Area, Capital Region, Denmark",
+        "currentJob": "Commercial Director  at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/davidthach/",
+        "name": "David Thach",
+        "job": "Co-founder & Managing Partner at Zeal IT Consultants",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "Multi-Unit Store Franchisee at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/duane-coppick-b1449542/",
+        "name": "Duane Coppick",
+        "job": "Senior Information Technology Manager at 7-Eleven",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/richard-hamilton-0593924/",
+        "name": "Richard Hamilton",
+        "job": "Field Consultant at 7-Eleven",
+        "location": "Colorado Springs, Colorado Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/tim-cogil-5a143b13/",
+        "name": "Tim Cogil",
+        "job": "Sr. Director Private Brands at 7-Eleven",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "Sr. Director Private Brands  at 7-Eleven",
+        "companyUrl": "https://www.linkedin.com/company/7-eleven"
+    },
+    {
+        "url": "https://www.linkedin.com/in/abbroboticsuk/",
+        "name": "ABB Robotics UK",
+        "job": "Engineering An Automation Nation",
+        "location": "Milton Keynes, United Kingdom",
+        "currentJob": "ABB Robot at ABB Robotics UK",
+        "companyUrl": "https://www.linkedin.com/company/abb"
+    },
+    {
+        "url": "https://www.linkedin.com/in/yugalsharma11/",
+        "name": "Yugal Kishor Sharma",
+        "job": "Talent CoE - Hiring the best talents for ABB",
+        "location": "Bengaluru Area, India",
+        "currentJob": "Talent CoE at ABB",
+        "companyUrl": "https://www.linkedin.com/company/abb"
+    },
+    {
+        "url": "https://www.linkedin.com/in/desmonddsoza/",
+        "name": "Desmond D&#39;souza",
+        "job": "Senior Talent Acquisition Specialist at ABB",
+        "location": "United Arab Emirates",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/abb"
+    },
+    {
+        "url": "https://www.linkedin.com/in/evanilson-peres/",
+        "name": "Evanilson Peres",
+        "job": "Supply Chain Manager / Operations Manager / Transportation Manager",
+        "location": "São Paulo Area, Brazil",
+        "currentJob": "Transportation Manager at ABB",
+        "companyUrl": "https://www.linkedin.com/company/abb"
+    },
+    {
+        "url": "https://www.linkedin.com/in/cezarmaroti/",
+        "name": "Cezar MAROTI",
+        "job": "Global Talent Attraction @ ABB | Executive MBA candidate | Angel Investor | Entrepreneur | Dreamer & Doer | Proud Father",
+        "location": "Zürich Area, Switzerland",
+        "currentJob": "Talent Attraction - Active Talent Sourcing at ABB",
+        "companyUrl": "https://www.linkedin.com/company/abb"
+    },
+    {
+        "url": "https://www.linkedin.com/in/nicolebooleanmonkey/",
+        "name": "Nicole Blöchlinger",
+        "job": "Senior Recruiter & Talent Sourcer for Switzerland at Independent",
+        "location": "Lausanne Area, Switzerland",
+        "currentJob": "Senior Talent Sourcer (External)  at ABB",
+        "companyUrl": "https://www.linkedin.com/company/abb"
+    },
+    {
+        "url": "https://www.linkedin.com/in/eric-deschenes-56a30234/",
+        "name": "Eric Deschenes",
+        "job": "Executive Vice President - EP Division ABB Canada",
+        "location": "Montreal, Canada Area",
+        "currentJob": "Executive Vice President at ABB",
+        "companyUrl": "https://www.linkedin.com/company/abb"
+    },
+    {
+        "url": "https://www.linkedin.com/in/adamfox2018/",
+        "name": "Adam Fox",
+        "job": "Robotic Intralogistics Solution Specialist for ABB | Robot Picking and Tote Handling Expert |",
+        "location": "Northampton, United Kingdom",
+        "currentJob": "Robotic Intralogistics Solution Sales at ABB",
+        "companyUrl": "https://www.linkedin.com/company/abb"
+    },
+    {
+        "url": "https://www.linkedin.com/in/shurjil/",
+        "name": "Shurjil Husain",
+        "job": "Vice President, Corporate Communications at ABB Saudi Arabia | Top 40 Under 40",
+        "location": "Saudi Arabia",
+        "currentJob": "Vice President, Corporate Communications, Saudi Arabia at ABB",
+        "companyUrl": "https://www.linkedin.com/company/abb"
+    },
+    {
+        "url": "https://www.linkedin.com/in/grantallen/",
+        "name": "Grant Allen",
+        "job": "Head of Technology Ventures, ABB Group",
+        "location": "San Francisco Bay Area",
+        "currentJob": "Head of Technology Ventures at ABB",
+        "companyUrl": "https://www.linkedin.com/company/abb"
+    },
+    {
+        "url": "https://www.linkedin.com/in/kavvamlakshmareddy/",
+        "name": "Lakshma Reddy",
+        "job": "16K+ Connections; Electrical Engineer with 14+ years Industry Experience",
+        "location": "Chennai Area, India",
+        "currentJob": "Sr.Tendering Specialist at ABB",
+        "companyUrl": "https://www.linkedin.com/company/abb"
+    },
+    {
+        "url": "https://www.linkedin.com/in/rodalyn-malimban-3648328/",
+        "name": "Rodalyn Malimban",
+        "job": "Recruitment Consultant - MEA",
+        "location": "United Arab Emirates",
+        "currentJob": "Talent Acquisition Specialist - MEA at ABB",
+        "companyUrl": "https://www.linkedin.com/company/abb"
+    },
+    {
+        "url": "https://www.linkedin.com/in/wojciech-przychodzen-pmp-482ba5/",
+        "name": "Wojciech Przychodzen, PMP",
+        "job": "Co-Owner at Rokanan Group",
+        "location": "Cracow, Lesser Poland District, Poland",
+        "currentJob": "Business Analysts/ Functional Analysts Team Lead at ABB",
+        "companyUrl": "https://www.linkedin.com/company/abb"
+    },
+    {
+        "url": "https://www.linkedin.com/in/marciolimatax/",
+        "name": "Marcio Lima",
+        "job": "Tax Consultant at ABB Brasil",
+        "location": "São Paulo Area, Brazil",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/abb"
+    },
+    {
+        "url": "https://www.linkedin.com/in/garyearle/",
+        "name": "Gary Earle",
+        "job": "Director of Talent Acquisition at ABB",
+        "location": "Greater San Diego Area",
+        "currentJob": "Director of Talent Acquisition at ABB - A $40 billion dollar global Fortune 500 company operating in over 100 countries.",
+        "companyUrl": "https://www.linkedin.com/company/abb"
+    },
+    {
+        "url": "https://www.linkedin.com/in/kennethludden/",
+        "name": "Kenneth Ludden, CPC CIR",
+        "job": "Talent Acquisition Leader, Executive Business Coach & Consultant",
+        "location": "United States",
+        "currentJob": "Talent Acquisition Manager at ABB",
+        "companyUrl": "https://www.linkedin.com/company/abb"
+    },
+    {
+        "url": "https://www.linkedin.com/in/franciscoruiz90/",
+        "name": "Francisco Gabriel Ruiz Zarate",
+        "job": "LATAM Talent Acquisition Lead at ABB",
+        "location": "San Luis Potosí Area, Mexico",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/abb"
+    },
+    {
+        "url": "https://www.linkedin.com/in/ilyasf/",
+        "name": "Ilyas F ☁☁☁",
+        "job": "IoT Evangelist at ABB",
+        "location": "Bengaluru Area, India",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/abb"
+    },
+    {
+        "url": "https://www.linkedin.com/in/maciejprzado/",
+        "name": "Maciej Prządo",
+        "job": "Recruitment Executive w ABB",
+        "location": "Cracow, Lesser Poland District, Poland",
+        "currentJob": "Talent Acquisition  ( via Alexander Mann Solutions ) at ABB",
+        "companyUrl": "https://www.linkedin.com/company/abb"
+    },
+    {
+        "url": "https://www.linkedin.com/in/shonah-bering/",
+        "name": "Shonah Bering",
+        "job": "International Business Graduate",
+        "location": "United Kingdom",
+        "currentJob": "Brand Representative at Hollister Co.",
+        "companyUrl": "https://www.linkedin.com/company/abercrombie-&-fitch"
+    },
+    {
+        "url": "https://www.linkedin.com/in/davidsavini/",
+        "name": "David Savini",
+        "job": "Director of Digital Marketing at Hollister Co.",
+        "location": "Columbus, Ohio Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/abercrombie-&-fitch"
+    },
+    {
+        "url": "https://www.linkedin.com/in/tinalwang/",
+        "name": "Tina Wang",
+        "job": "Client Support Officer at Scotiabank",
+        "location": "Toronto, Canada Area",
+        "currentJob": "Sales Associate at Hollister Co.",
+        "companyUrl": "https://www.linkedin.com/company/abercrombie-&-fitch"
+    },
+    {
+        "url": "https://www.linkedin.com/in/kenya-muro-242465a2/",
+        "name": "Kenya Muro",
+        "job": "Customer Service Representative at TD",
+        "location": "Canada",
+        "currentJob": "Brand Representative at Hollister Co.",
+        "companyUrl": "https://www.linkedin.com/company/abercrombie-&-fitch"
+    },
+    {
+        "url": "https://www.linkedin.com/in/margaux-vuillermoz/",
+        "name": "Margaux Vuillermoz",
+        "job": "Étudiante",
+        "location": "Lyon Area, France",
+        "currentJob": "Brand Representative at Hollister Co.",
+        "companyUrl": "https://www.linkedin.com/company/abercrombie-&-fitch"
+    },
+    {
+        "url": "https://www.linkedin.com/in/chrisvestal/",
+        "name": "Chris Vestal",
+        "job": "Sr. Associate Creative Director, Hollister Brand Marketing",
+        "location": "Greater San Diego Area",
+        "currentJob": "Senior Art Director at Hollister Co.",
+        "companyUrl": "https://www.linkedin.com/company/abercrombie-&-fitch"
+    },
+    {
+        "url": "https://www.linkedin.com/in/michael-zwick-5018244/",
+        "name": "Michael Zwick",
+        "job": "Regional Vice President at Hollister Incorporated",
+        "location": "Geneva Area, Switzerland",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/abercrombie-&-fitch"
+    },
+    {
+        "url": "https://www.linkedin.com/in/natalia-shershun-151ab953/",
+        "name": "Natalia Shershun",
+        "job": "Senior Finance Manager at Adobe",
+        "location": "Ukraine",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/thomasvasasphotographer/",
+        "name": "Thomas Vasas",
+        "job": "Fine Art Photographer at Prints by Thomas Vasas",
+        "location": "Columbus, Georgia Area",
+        "currentJob": "Photo Contributor at Adobe Stock",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/teresaleija/",
+        "name": "Teresa Leija",
+        "job": "Building Experiences for University Talent at Adobe",
+        "location": "San Francisco Bay Area",
+        "currentJob": "University Talent Program Manager at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/joelshansen/",
+        "name": "Joel Hansen",
+        "job": "Business Development Manager | Linkedin & Adobe | Western Canada's Largest Marketing & PR Conference | Public Speaker",
+        "location": "Vancouver, Canada Area",
+        "currentJob": "Adobe Student Advisory Board at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/pranavjeet/",
+        "name": "Pranavjeet Mishra",
+        "job": "Node|Adonis|React(MERN full stack) | Angular 7|NUXT| RXJS| AI(Python)| Machine Learning(Python)| Azure|TensorFlow.js",
+        "location": "Bengaluru Area, India",
+        "currentJob": "Sr UI/UX developer at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/chavisengar/",
+        "name": "Chavi Sengar",
+        "job": "Talent Enthusiast at Adobe | EQ Recruiter | Voracious Reader | Perceptive thinker |",
+        "location": "Noida Area, India",
+        "currentJob": "Talent Partner at Adobe Systems",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/nupur-arora-17b67152/",
+        "name": "Nupur Arora",
+        "job": "Talent Partner at Adobe",
+        "location": "New Delhi Area, India",
+        "currentJob": "Talent Partner (Cloud Technology) at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/daniellewilkinson/",
+        "name": "Danielle Wilkinson",
+        "job": "Technical Talent Partner @ Adobe; Sensei, Search & Security",
+        "location": "San Francisco Bay Area",
+        "currentJob": "Technical Talent Partner - Sensei, Search & Security; Cloud Technology  at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/rajujerin/",
+        "name": "Jerin Raju",
+        "job": "Connecting High Performers to Adobe",
+        "location": "Bengaluru Area, India",
+        "currentJob": "Talent Acquisition Partner at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/ruchi-saini-a9994028/",
+        "name": "Ruchi Saini",
+        "job": "Helping organizations streamline their eLearning and Content Development strategies",
+        "location": "New Delhi Area, India",
+        "currentJob": "Enterprise Sales Account Manager at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/yuvaraj-prakash-mande-355a1a22/",
+        "name": "Yuvaraj Prakash Mande",
+        "job": "Talent Partner at Adobe - Hiring Computer Scientists",
+        "location": "India",
+        "currentJob": "Talent Partner at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/abhinavsaurabh/",
+        "name": "Abhinav Saurabh",
+        "job": "Digital Recruiting Specialist",
+        "location": "Bengaluru Area, India",
+        "currentJob": "Talent Partner at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/robertoblake/",
+        "name": "Roberto Blake",
+        "job": "Creative Entrepreneur, YouTube Certified Expert, Author and Speaker",
+        "location": "Greater Atlanta Area",
+        "currentJob": "Contributing Writer and Content Marketer at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/lavanyakettay/",
+        "name": "Lavanya Kettay",
+        "job": "Talent @ Adobe",
+        "location": "San Francisco Bay Area",
+        "currentJob": "Lead Talent Partner -  Product & Engineering at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/scottbelsky/",
+        "name": "Scott Belsky",
+        "job": "Executive, Author, Investor, & Product Obsessive",
+        "location": "Greater New York City Area",
+        "currentJob": "Chief Product Officer, Executive Vice President - Creative Cloud at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/puniths/",
+        "name": "Punith Suvarna",
+        "job": "Senior Director, Talent Acquisition - Products & Technology, University, and Talent Operations at Adobe",
+        "location": "San Francisco Bay Area",
+        "currentJob": "Senior Director, Talent Acquisition - Products & Technology, University, and Talent Operations  at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/briannakirkpatrick/",
+        "name": "Brianna Kirkpatrick",
+        "job": "Lead, University Talent Acquisition at Adobe",
+        "location": "San Francisco Bay Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/lechrs/",
+        "name": "Chris Le",
+        "job": "Talent Partner - Recruiter at Adobe",
+        "location": "San Francisco Bay Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/madisonbalanay/",
+        "name": "Madison Balanay",
+        "job": "Talent Coordinator at Adobe",
+        "location": "San Francisco Bay Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/abhayparasnis/",
+        "name": "Abhay Parasnis",
+        "job": "CTO & EVP at Adobe",
+        "location": "San Francisco Bay Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/jennifer-trinh-nguyen/",
+        "name": "Jennifer Trinh-Nguyen",
+        "job": "Talent Scout - GTM at Adobe",
+        "location": "San Francisco Bay Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/tobias-kredel/",
+        "name": "Tobias Kredel",
+        "job": "○ H○LISTIC 👧🏻&Humanist ♥ True Innovator ★ Design Artist 🚀Futurist 🔺Master Strategist 🔅>",
+        "location": "Hamburg Area, Germany",
+        "currentJob": "Adobe Creative Suite & Adobe Stock Images Testimonial at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/daniel1994/",
+        "name": "♕ Daniel Raj ♕",
+        "job": "Inside Sales Manager at ADOBE || Working with CANADIAN & US clients || Helping brands to generate revenue.",
+        "location": "Toronto, Canada Area",
+        "currentJob": "Inside Sales Manager at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/lilliantsui/",
+        "name": "Lillian Tsui",
+        "job": "Talent Partner at Adobe",
+        "location": "Greater Los Angeles Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/jakereni/",
+        "name": "Jake Reni",
+        "job": "I’m hiring several SDR & ADR roles in Utah, SF, DC and Toronto! | Adobe Inside Sales Leadership",
+        "location": "Greater Salt Lake City Area",
+        "currentJob": "Head of Adobe Sales Academy at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/caritamarrow/",
+        "name": "Carita Marrow",
+        "job": "Diversity & Inclusion Talent Program Manager at Adobe #AdobeforAll",
+        "location": "San Francisco Bay Area",
+        "currentJob": "Diversity & Inclusion Talent Program Manager at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/laharyravuri/",
+        "name": "Lahary Ravuri",
+        "job": "Director, Adobe",
+        "location": "San Francisco Bay Area",
+        "currentJob": "Director, Product Marketing and GTM Strategy at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/sravanaravelly/",
+        "name": "Sravan Aravelly",
+        "job": "BI Solutions Architect ( Tableau / Power BI / SAP HANA / Big Data ) at Adobe",
+        "location": "San Francisco Bay Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/cpani/",
+        "name": "Chittaranjan Panigrahi",
+        "job": "Computer Scientist, Core Technologies & Products @ Adobe",
+        "location": "Bengaluru Area, India",
+        "currentJob": "Computer Scientist, Core Technologies & Products at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/judithhammerman/",
+        "name": "Judith Hammerman",
+        "job": "Strategic Leadership | Sales and Storytelling | Data and Technology Platforms",
+        "location": "Greater New York City Area",
+        "currentJob": "Head of Audience Manager at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/prakashanusha/",
+        "name": "Anusha Prakash",
+        "job": "ML and NLP Grad at Carnegie Mellon University | Seeking Full-Time Roles | DataVisor Scholar | IAS Research Fellow",
+        "location": "San Francisco Bay Area",
+        "currentJob": "Machine Learning Intern at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/taragroves/",
+        "name": "Tara Groves",
+        "job": "Talent Partner, APAC at Adobe",
+        "location": "Sydney, Australia",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/christianjaensch/",
+        "name": "Christian Jänsch",
+        "job": "Trusted advisor for opportunities @Adobe | Talent Scout, Central EMEA",
+        "location": "Munich Area, Germany",
+        "currentJob": "Talent Scout, Central EMEA at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/gary-specter/",
+        "name": "Gary Specter",
+        "job": "Vice President, Commerce Sales & Customer Success, Experience Business at Adobe",
+        "location": "Orange County, California Area",
+        "currentJob": "Vice President, Commerce Sales & Customer Success, Experience Business at Adobe at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/padminipandya/",
+        "name": "Padmini Pandya",
+        "job": "Organizational Psychologist & Corporate Strategist",
+        "location": "Singapore",
+        "currentJob": "Principal Digital Strategist, APAC at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/shivaniganjoo/",
+        "name": "Shivani Ganjoo",
+        "job": "Talent Acquisition at Adobe",
+        "location": "Bengaluru Area, India",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/jerrysastri/",
+        "name": "Jerry Sastri",
+        "job": "Living the dream! #adobelife / @JerrySastri",
+        "location": "San Francisco Bay Area",
+        "currentJob": "Sr. Talent Partner at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/davamoni/",
+        "name": "Daniel Davamoni",
+        "job": "Partner Sales Manager (Aust/NZ), Adobe Experience Cloud",
+        "location": "Sydney, Australia",
+        "currentJob": "Partner Sales Manager, Aust/NZ at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/sterlingledet/",
+        "name": "Sterling Ledet",
+        "job": "Adobe / Autodesk / Microsoft / Unity certified training ☆ We teach the cool stuff ☆ Learn with Passion!",
+        "location": "Greater Atlanta Area",
+        "currentJob": "Adobe, Autodesk , Unity, Microsoft and Google authorized training centers at Ledet Training Centers",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/bjwilson/",
+        "name": "Brett Wilson",
+        "job": "Vice President and General Manager, Advertising at Adobe",
+        "location": "San Francisco Bay Area",
+        "currentJob": "VP and GM, Advertising at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/amandalopezmaed/",
+        "name": "Amanda Lopez",
+        "job": "Talent Partner, Platform Engineering (Digital Experience)",
+        "location": "San Francisco Bay Area",
+        "currentJob": "Talent Partner, Platform Engineering (Digital Experience) at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/rafaelhidalgoyteran/",
+        "name": "Rafael Hidalgo y Teran",
+        "job": "Sr. Solutions Consultant Digital Media",
+        "location": "Mexico City Area, Mexico",
+        "currentJob": "Sr. Solutions Consultant Digital Media at Adobe Systems",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/satya-prakash-97798a56/",
+        "name": "Satya Prakash",
+        "job": "Senior Software Developer, Entrepreneur, Change Enabler, Thinker, Motivator, Strategy Builder",
+        "location": "Bengaluru Area, India",
+        "currentJob": "Senior Software Engineer at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/tongzhang1/",
+        "name": "Tong Zhang",
+        "job": "Digital Strategy at Adobe | Stanford MBA",
+        "location": "San Francisco Bay Area",
+        "currentJob": "Digital Strategy Associate  at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/dougcalhoun/",
+        "name": "Douglas Calhoun",
+        "job": "University Talent Partner at Adobe",
+        "location": "San Francisco Bay Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/mjasay/",
+        "name": "Matt Asay",
+        "job": "Head of Developer Ecosystem at Adobe",
+        "location": "Greater Salt Lake City Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/rigbyscott/",
+        "name": "Scott Rigby",
+        "job": "Head of Digital Transformation at Adobe | Technologist & speaker focused on innovation, strategy and marketing.",
+        "location": "Sydney, Australia",
+        "currentJob": "Head of Digital Transformation at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/taylorbarada/",
+        "name": "Taylor Barada",
+        "job": "Tech Exec/Advisor/Investor",
+        "location": "San Francisco Bay Area",
+        "currentJob": "VP, Global Head of Corporate Development, Corporate Strategy & Strategic Partnerships at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/shanmugh-natarajan-6084382a/",
+        "name": "Shanmugh Natarajan",
+        "job": "Managing Director - Adobe India & Vice President - Products",
+        "location": "Noida Area, India",
+        "currentJob": "Managing Director - India at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/yiyinglu/",
+        "name": "Yiying Lu",
+        "job": "Cross-Cultural Design Director | Bilingual Speaker | Fast Company's Most Creative People in Business 商业媒体杂志《快公司》最具创意商业人士",
+        "location": "San Francisco Bay Area",
+        "currentJob": "Founder & Director at Yiying Lu",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/paulrobson344/",
+        "name": "Paul Robson",
+        "job": "President at Adobe",
+        "location": "Sydney, Australia",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/bryanlamkin/",
+        "name": "Bryan Lamkin",
+        "job": "Executive Vice President & General Manager, Digital Media at Adobe",
+        "location": "San Francisco Bay Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/vineetsood/",
+        "name": "Vineet Sood",
+        "job": "Sr. Director - Worldwide SMB Sales & Channel Sales at Adobe Systems",
+        "location": "New Delhi Area, India",
+        "currentJob": "Sr Director- Worldwide SMB Sales & Direct Commerce at Adobe",
+        "companyUrl": "https://www.linkedin.com/company/adobe"
+    },
+    {
+        "url": "https://www.linkedin.com/in/katiemariejones/",
+        "name": "Katie Jones",
+        "job": "National Sales Recruiter at ADT",
+        "location": "Miami/Fort Lauderdale Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/kimdifruscia/",
+        "name": "Kim Di Fruscia, SPHR",
+        "job": "Senior Talent Acquisition Partner at ADT;",
+        "location": "West Palm Beach, Florida Area",
+        "currentJob": "Senior Talent Acquisition Partner- Lead Information Technology & Innovation at ADT",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/jack-swain-545abb41/",
+        "name": "Jack Swain",
+        "job": "Area General Manager",
+        "location": "Louisville, Kentucky Area",
+        "currentJob": "Area General Manager(Louisville, KY) at ADT",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/jpgalvao1/",
+        "name": "Jason Galvao",
+        "job": "Digital Marketing Project Manager at ADT",
+        "location": "Miami/Fort Lauderdale Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/sara-memrick-good/",
+        "name": "Sara Memrick",
+        "job": "Sales Superstar with a Entrepreneurial Spirit for Success",
+        "location": "Jacksonville, Florida Area",
+        "currentJob": "National Account Manager at ADT",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/reed-rayman-75673069/",
+        "name": "Reed Rayman",
+        "job": "Principal, Private Equity at Apollo Global Management LLC",
+        "location": "Greater New York City Area",
+        "currentJob": "Member of the Board of Directors at ADT",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/wildersales/",
+        "name": "David W.",
+        "job": "Specializing in Market Expansion | Strategic Positioning | Building High Volume Sales Channels",
+        "location": "Spokane, Washington Area",
+        "currentJob": "Strategic Business Development at ADT",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/arielnagales/",
+        "name": "Ariel Nagales",
+        "job": "Captain, USN (ret) | Lean Six Sigma Black Belt",
+        "location": "Jacksonville, Florida Area",
+        "currentJob": "Senior Manager at ADT",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/wes-smith-982b252a/",
+        "name": "Wes Smith",
+        "job": "Commercial Sales",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "Commercial Sales at ADT",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/lcecchini/",
+        "name": "Larry Cecchini",
+        "job": "Passionate Evangelist, Seeker \" Primal Value Innovations\" & \"Blue Oceans\". Big Surf at ADT SMB Cybersecurity! Catch It.",
+        "location": "Greensboro/Winston-Salem, North Carolina Area",
+        "currentJob": "Vice President and General Manager ADT Cybersecurity-Small Business at ADT",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/amipierson/",
+        "name": "Ami Pierson",
+        "job": "ADT/Protection 1 National Account Manager",
+        "location": "Greater Atlanta Area",
+        "currentJob": "ADT/Protection 1 National Account Manager at https://www.protection1.com/business/",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/glenantoine/",
+        "name": "Glen Antoine",
+        "job": "Director of Sales - South Central Region at ADT",
+        "location": "Austin, Texas Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/mschults/",
+        "name": "Marissa Schults",
+        "job": "Sr. Marketing Specialist at ADT",
+        "location": "West Palm Beach, Florida Area",
+        "currentJob": "Sr. Marketing Communications Specialist at ADT",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/marci-zissis-296151b4/",
+        "name": "Marci Zissis",
+        "job": "Director Customer Care at ADT",
+        "location": "Rochester, New York Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/shellyprescottbennett/",
+        "name": "Shelly Bennett, ARM",
+        "job": "Risk Manager",
+        "location": "Miami/Fort Lauderdale Area",
+        "currentJob": "Risk Manager at ADT",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/gwendolyn-copeland-4b6b28ab/",
+        "name": "Gwendolyn Copeland",
+        "job": "Talent Acquisition Partner",
+        "location": "Greater Denver Area",
+        "currentJob": "Talent Acquisition Partner at ADT",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/robin-stennet-a9565816/",
+        "name": "Robin Stennet",
+        "job": "Vice President, Innovation Strategy & GTM",
+        "location": "West Palm Beach, Florida Area",
+        "currentJob": "Vice President, Innovation Strategy & Go-to-Market at ADT",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/robert-bull-jr-b1440314/",
+        "name": "Robert Bull Jr.",
+        "job": "Vice President Integrated Video Solutions at ADT",
+        "location": "Lakeland, Florida Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/lorathompson/",
+        "name": "Lora Thompson",
+        "job": "Director, Talent Acquisition",
+        "location": "West Palm Beach, Florida Area",
+        "currentJob": "Director, Talent Acquisition at ADT",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/margotdaniel/",
+        "name": "Margot Daniel",
+        "job": "Director Digital Customer Experience",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "Director Digital Customer Experience at ADT",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/mindyhokama/",
+        "name": "Mindy Julius",
+        "job": "Senior Talent Acquisition Partner at ADT",
+        "location": "Miami/Fort Lauderdale Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/robert-kerr-jr-33897752/",
+        "name": "Robert Kerr Jr.",
+        "job": "Vice President at ADT, Mid North Region",
+        "location": "Greater Chicago Area",
+        "currentJob": "Vice President at ADT",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/tracy-comess-60a1095/",
+        "name": "Tracy Comess",
+        "job": "Talent Acquisition Partner at ADT",
+        "location": "Miami/Fort Lauderdale Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/amelia-pulliam-677a3095/",
+        "name": "AMELIA PULLIAM",
+        "job": "SVP and Chief Human Resources Officer, ADT",
+        "location": "West Palm Beach, Florida Area",
+        "currentJob": "SVP and Chief Human Resources Officer at The ADT Corporation",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/deaniaknapp/",
+        "name": "Deania Knapp",
+        "job": "Commercial Sales Manager at ADT",
+        "location": "Kansas City, Missouri Area",
+        "currentJob": "none",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/keatherroemhildt/",
+        "name": "Keather Roemhildt",
+        "job": "User Experience Designer at Twitter",
+        "location": "San Francisco Bay Area",
+        "currentJob": "VP Of User Experience at ADT",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/erik-klockemann/",
+        "name": "Erik Klockemann",
+        "job": "National Account Manager at ADT - Leigh Valley",
+        "location": "Allentown, Pennsylvania Area",
+        "currentJob": "National Account Manager at ADT",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/nicholasjkhalil/",
+        "name": "Nicholas Khalil",
+        "job": "Senior Director Business Development at Protection 1 Security Solutions",
+        "location": "Greater Minneapolis-St. Paul Area",
+        "currentJob": "Senior Director Business Development at ADT",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/linda-star-siegel-b991044/",
+        "name": "Linda Star Siegel",
+        "job": "ADT National Sales Recruiter (Short Term Contract Project) **Will be seeking new opportunity to start mid 3Q 2018**",
+        "location": "Miami/Fort Lauderdale Area",
+        "currentJob": "National Sales Recruiter (Contract Project - Short Term) at ADT",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/zackery-stone-4994b0105/",
+        "name": "Zackery Stone",
+        "job": "Security Consultant | ADT",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "Security Consultant at ADT",
+        "companyUrl": "https://www.linkedin.com/company/adt"
+    },
+    {
+        "url": "https://www.linkedin.com/in/tom-greco-a83950120/",
+        "name": "Tom Greco",
+        "job": "Chief Executive Officer at Advance Auto Parts",
+        "location": "Dallas/Fort Worth Area",
+        "currentJob": "President and Chief Executive Officer at Advance Auto Parts",
+        "companyUrl": "https://www.linkedin.com/company/advance-auto-parts"
+    },
+    {
+        "url": "https://www.linkedin.com/in/ecomoliterno/",
+        "name": "Eco Moliterno",
+        "job": "CCO - Accenture Interactive",
+        "location": "São Paulo Area, Brazil",
+        "currentJob": "Chief Creative Officer - LatAm at Accenture Interactive",
+        "companyUrl": "https://www.linkedin.com/company/accenture"
+    },
+    {
+        "url": "https://www.linkedin.com/in/jitendrashukla/",
+        "name": "Jitendra Shukla",
+        "job": "Blogger, Digital Marketing Evangelist @ Accenture Digital",
+        "location": "Bengaluru Area, India",
+        "currentJob": "Practice Lead - Mktg. Insights & Search Analytics at Accenture Interactive",
+        "companyUrl": "https://www.linkedin.com/company/accenture"
+    },
+    {
+        "url": "https://www.linkedin.com/in/markdsherwin/",
+        "name": "❇ Mark Sherwin",
+        "job": "Managing Director - Accenture Interactive | Global Digital Customer Services | Resources, Comms, Media & Tech",
+        "location": "London, United Kingdom",
+        "currentJob": "Managing Director, Global Digital Customer Services Lead, Accenture Interactive at Accenture Interactive",
+        "companyUrl": "https://www.linkedin.com/company/accenture"
+    },
+    {
+        "url": "https://www.linkedin.com/in/johnthopper/",
+        "name": "John Hopper",
+        "job": "Accenture Interactive",
+        "location": "Greater Denver Area",
+        "currentJob": "Digital Portfolio and Delivery Leadership at Accenture Interactive",
+        "companyUrl": "https://www.linkedin.com/company/accenture"
+    }
+]
